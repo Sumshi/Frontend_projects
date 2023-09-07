@@ -1,2 +1,1 @@
-		This repo will contain projects that will help me get better
-of frontend
+live website link: https://sumshi.github.io/Frontend_projects/
